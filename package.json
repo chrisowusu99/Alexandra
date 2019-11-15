@@ -1,0 +1,25 @@
+{
+  "name": "alexandra-barber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ALEXANDRA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/am-chris-owusu90/Alexandra.git"
+  },
+  "author": "",
+  "keywords": [
+    "chrismaster.tk/"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/am-chris-owusu90/Alexandra/issues"
+  },
+  "homepage": "https://am-chris-owusu90.github.io/Alexandra",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
